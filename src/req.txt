@@ -1,0 +1,7 @@
+numpy
+opencv-python
+scikit-learn
+insightface
+onnxruntime-gpu
+torch
+torchvision
