@@ -2,10 +2,10 @@ import pickle
 import numpy as np
 from sklearn.cluster import AgglomerativeClustering
 
-DATA_PATH = r'D:\masters\ssat-face\data\embeddings_01-22-15.pkl'
+DATA_PATH = r'D:\masters\ssat-face\results\embeddings_00-00-000.pkl'
 
 # The "Fixed Threshold" (Standard value is 0.6)
-THRESHOLD = 0.6  
+THRESHOLD = 0.6
 # -----------------------------
 
 def main():
